@@ -1,9 +1,11 @@
 app_python/.venv
+app_python/.venv/
 /app_python/.venv
 venv
 .venv
 /.venv
 
+.venv/
 # dependencies
 /node_modules
 /.pnp
