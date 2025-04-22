@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "response_required": true,
+        "information_recieved": "What was the deceased doing prior to their death?"
+    },
+    {
+        "id": 1,
+        "response_required": true,
+        "information_recieved": "What weapon was the decease killed with?"
+    },
+    {
+        "id": 2,
+        "response_required": true,
+        "information_recieved": "Who was the last person that saw the deceased prior to their death?"
+    },
+    {
+        "id": 3,
+        "response_required": true,
+        "information_recieved": "When was the deceased found?"
+    },
+    {
+        "id": 4,
+        "response_required": true,
+        "information_recieved": "Who found the deceased after they were killed?"
+    },
+    {
+        "id": 5,
+        "response_required": true,
+        "information_recieved": "What was the deceased last words before passing?"
+    },
+    {
+        "id": 6,
+        "response_required": true,
+        "information_recieved": "Where was the deceased body found?"
+    },
+    {
+        "id": 7,
+        "response_required": true,
+        "information_recieved": "What was going on the night the deceased died?"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "character_action_id": 1,
+        "character_id": 22,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Demon info: Show the 'These are your minions' card.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 2,
+        "character_id": 18,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the 'This is the Demon' card. Point to the Demon.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 2,
+        "character_id": 19,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the 'This is the Demon' card. Point to the Demon.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 2,
+        "character_id": 20,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the 'This is the Demon' card. Point to the Demon.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 2,
+        "character_id": 21,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the 'This is the Demon' card. Point to the Demon.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 3,
+        "character_id": 21,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Point to a player. That player is poisoned.",
+        "first_night": true,
+        "action": "The Poisoner points to a player. That player is poisoned.",
+        "response_required": true
+    },
+    {
+        "character_action_id": 4,
+        "character_id": 19,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the Grimoire to the Spy for as long as they need.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 5,
+        "character_id": 1,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the character token of a Townsfolk in play. Point to two players, one of which is that character.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 6,
+        "character_id": 2,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the character token of an Outsider in play. Point to two players, one of which is that character.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 7,
+        "character_id": 3,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the character token of a Minion in play. Point to two players, one of which is that character.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 8,
+        "character_id": 4,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the hand signal (0, 1, 2) for the number of pairs of evil players neighbouring each other.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 9,
+        "character_id": 5,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "Show the hand signal (0, 1, 2) for the number of evil alive neighbours of the Empath.",
+        "first_night": true,
+        "action": null,
+        "response_required": false
+    },
+    {
+        "character_action_id": 10,
+        "character_id": 6,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "The Fortune Teller points to two players to know if either is a Demon.",
+        "first_night": true,
+        "action": "The Fortune Teller recieve the Information Yes or No to Denote whether a Demon is among them (Beware of False Prophets)",
+        "response_required": true
+    },
+    {
+        "character_action_id": 11,
+        "character_id": 14,
+        "time_of_day": "night",
+        "recieve_information": true,
+        "information_recieved": "The Butler points to a player and marks them as 'Master'.",
+        "first_night": true,
+        "action": "The Butler points to a player and marks them as 'Master'.",
+        "response_required": true
+    }
+]

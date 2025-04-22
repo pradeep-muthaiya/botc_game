@@ -1,0 +1,245 @@
+[
+    {
+      "character_id": 1,
+      "character_name": "Washerwoman",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "You start knowing that 1 of 2 players is a particular Townsfolk.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 3,
+      "night_order": null
+    },
+    {
+      "character_id": 2,
+      "character_name": "Librarian",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "You start knowing that 1 of 2 players is a particular Outsider. (Or that zero are in play.)",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 4,
+      "night_order": null
+    },
+    {
+      "character_id": 3,
+      "character_name": "Investigator",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "You start knowing that 1 of 2 players is a particular Minion.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 5,
+      "night_order": null
+    },
+    {
+      "character_id": 4,
+      "character_name": "Chef",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "You start knowing how many pairs of evil players there are.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 6,
+      "night_order": null
+    },
+    {
+      "character_id": 5,
+      "character_name": "Empath",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night, you learn how many of your 2 alive neighbours are evil.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 7,
+      "night_order": 8
+    },
+    {
+      "character_id": 6,
+      "character_name": "Fortune Teller",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night, choose 2 players: you learn if either is a Demon. There is a good player that registers as a Demon to you.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 8,
+      "night_order": 9
+    },
+    {
+      "character_id": 7,
+      "character_name": "Undertaker",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night*, you learn which character died by execution today.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 7
+    },
+    {
+      "character_id": 8,
+      "character_name": "Monk",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night*, choose a player (not yourself): they are safe from the Demon tonight.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 2
+    },
+    {
+      "character_id": 9,
+      "character_name": "Ravenkeeper",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "If you die at night, you are woken to choose a player: you learn their character.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 6
+    },
+    {
+      "character_id": 10,
+      "character_name": "Virgin",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 6
+    },
+    {
+      "character_id": 11,
+      "character_name": "Slayer",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "Once per game, during the day, publicly choose a player: if they are the Demon, they die.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 1,
+      "first_night_order": null,
+      "night_order": 7
+    },
+    {
+      "character_id": 12,
+      "character_name": "Soldier",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "You are safe from the Demon.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 8
+    },
+    {
+      "character_id": 13,
+      "character_name": "Mayor",
+      "designation": "townsfolk",
+      "game_version": "Trouble Brewing",
+      "character_description": "If only 3 players live & no execution occurs, your team wins. If you die at night, another player might die instead.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 9
+    },
+    {
+      "character_id": 14,
+      "character_name": "Butler",
+      "designation": "outsider",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": 9,
+      "night_order": 10
+    },
+    {
+      "character_id": 15,
+      "character_name": "Drunk",
+      "designation": "outsider",
+      "game_version": "Trouble Brewing",
+      "character_description": "You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 11
+    },
+    {
+      "character_id": 16,
+      "character_name": "Recluse",
+      "designation": "outsider",
+      "game_version": "Trouble Brewing",
+      "character_description": "You might register as evil & as a Minion or Demon, even if dead.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 12
+    },
+    {
+      "character_id": 17,
+      "character_name": "Saint",
+      "designation": "outsider",
+      "game_version": "Trouble Brewing",
+      "character_description": "If you die by execution, your team loses.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 13
+    },
+    {
+        "character_id": 18,
+        "character_name": "Poisoner",
+        "designation": "minion",
+        "game_version": "Trouble Brewing",
+        "character_description": "Each night, choose a player: they are poisoned tonight and tomorrow day.",
+        "power_usage_count": 0,
+        "power_usage_count_max": 100,
+        "first_night_order": 1,
+        "night_order": 1
+      },
+      {
+        "character_id": 19,
+        "character_name": "Spy",
+        "designation": "minion",
+        "game_version": "Trouble Brewing",
+        "character_description": "Each night, you see the Grimoire. You might register as good & as a Townsfolk or Outsider, even if dead.",
+        "power_usage_count": 0,
+        "power_usage_count_max": 100,
+        "first_night_order": 2,
+        "night_order": 3
+      },
+      {
+        "character_id": 20,
+        "character_name": "Scarlet Woman",
+        "designation": "minion",
+        "game_version": "Trouble Brewing",
+        "character_description": "If there are 5 or more players alive (Travellers don’t count) & the Demon dies, you become the Demon.",
+        "power_usage_count": 0,
+        "power_usage_count_max": 1,
+        "first_night_order": null,
+        "night_order": 4
+      },
+      {
+        "character_id": 21,
+        "character_name": "Baron",
+        "designation": "minion",
+        "game_version": "Trouble Brewing",
+        "character_description": "There are extra Outsiders in play. [+2 Outsiders]",
+        "power_usage_count": 0,
+        "power_usage_count_max": 1,
+        "first_night_order": null,
+        "night_order": null
+      },
+    {
+      "character_id": 22,
+      "character_name": "Imp",
+      "designation": "demon",
+      "game_version": "Trouble Brewing",
+      "character_description": "Each night*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.",
+      "power_usage_count": 0,
+      "power_usage_count_max": 100,
+      "first_night_order": null,
+      "night_order": 5
+    }
+  ]
+  
